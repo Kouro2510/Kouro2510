@@ -6,7 +6,7 @@
 
 Full-stack developer in Ho Chi Minh City with four years of taking systems **from schema to production**: backend in **NestJS** and **Laravel**, frontend in **React 19** and **Next.js**, mobile in **Flutter** with smartwatch and Polar integrations, and delivery on **Kubernetes** with **ArgoCD**. Comfortable owning a system alone, and working in teams of up to twelve.
 
-- Now — Full-Stack Developer at **Metagrit** (06/2025 – 10-2026)
+- Now — Full-Stack Developer at **Metagrit** (06/2025 – 10/2026)
 - Before — Full-Stack Developer at **NhanhTravel** (07/2022 – 06/2025)
 - B.Sc. Information Technology, Nguyen Tat Thanh University
 
